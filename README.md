@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/emmanuel-miller-8108a6270">IT Professional</a></h1>
+<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/emmanuel-miller-8108a6270"> Aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
